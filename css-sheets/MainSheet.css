@@ -18,6 +18,24 @@
 	margin-left: auto;
 	text-align: left;
 }
+#Header {
+	height: 100px;
+	width: auto;
+	margin-top: 20px;
+}
+#leftColumn {
+	margin: 10px;
+	padding: 10px;
+	width: 350px;
+	float: left;
+}
+#rightColumn {
+	margin: 10px;
+	padding: 10px;
+	float: right;
+	width: 350px;
+}
+
 body {
 	text-align: center;
 }
