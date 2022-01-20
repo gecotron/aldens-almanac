@@ -19,7 +19,7 @@
 	text-align: left;
 }
 #Header {
-	height: 100px;
+	height: 50px;
 	width: auto;
 	margin-top: 20px;
 }
@@ -39,4 +39,7 @@
 
 body {
 	text-align: center;
+}
+.Titles {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
