@@ -43,3 +43,7 @@ body {
 .Titles {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
+.Visiting {
+	color: #600;
+	text-decoration: underline;
+}
